@@ -1,16 +1,15 @@
-# -tanj-nt
-ˈtanjənt
+# karmic player
+by disruptive karma
 
+karmic |ˈkärmik|
 
-tangent |ˈtanjənt|
-noun
-1 a straight line or plane that touches a curve or curved surface at a point, but if extended does not cross it at that point.tangent 1
-tangent 1
-2 a completely different line of thought or action: he quickly went off on a tangent about wrestling.
-3 Mathematics the trigonometric function that is equal to the ratio of the sides (other than the hypotenuse) opposite and adjacent to an angle in a right triangle.
-adjective
-(of a line or plane) touching, but not intersecting, a curve or curved surface.
-DERIVATIVES
-tangency |ˈtanj(ə)nsē| noun
-ORIGIN
-late 16th century ( sense 3 of the noun and as an adjective): from Latin tangent- ‘touching,’ from the verb tangere .
+relating to or characteristic of karma: the karmic wheel of life | I sensed a deep karmic connection with him.
+• informal denoting good or bad luck, viewed as resulting from one's actions: his new job must be some form of karmic payback.
+
+the karmic player is an exceptionally responsive and compatible html5 youtube native embeded player implimentation.
+
+what are you waiting for? give it a spin at full volume and enjoy! found at https://karmic-player.netlify.com
+
+the karmic player uses a simple flexi-flux approach which is found at https://github.com/bright-spark/flexi-flux-webapp and has been tested on all web-kit supported browsers, android phones and ios devices without a flaw.
+
+coded by martin myburgh [ http://about.me/martinmyburgh ] on friday 7 april 2017
